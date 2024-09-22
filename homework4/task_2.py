@@ -1,5 +1,5 @@
 import random
- 
+
 n = int (input ("please enter a number - "))
  
 if  0 < n < 30:

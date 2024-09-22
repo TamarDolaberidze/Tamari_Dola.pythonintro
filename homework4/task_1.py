@@ -1,5 +1,5 @@
 import random
-  
+
 players_num = int (input ("please enter  a players number - "))
 
 for i in range(players_num):
