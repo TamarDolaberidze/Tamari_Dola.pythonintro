@@ -1,4 +1,4 @@
-n = int (input ("please enter a number: "))
+n = int (input ("please enter a number: ")) 
 
 a, b = 0, 1
 

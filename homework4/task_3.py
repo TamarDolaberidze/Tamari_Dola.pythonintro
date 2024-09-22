@@ -1,4 +1,4 @@
-n = int (input ("please enter a number: "))
+n = int (input ("please enter a number: ")) 
 
 if 0 < n < 1000: 
     for i in range (1, n+1):

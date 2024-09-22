@@ -1,4 +1,4 @@
-import random
+import random 
 
 n = int (input ("please enter a number - "))
  
