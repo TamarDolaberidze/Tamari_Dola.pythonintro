@@ -1,5 +1,5 @@
 n = int (input ("please enter a number: "))
-
+ 
 a, b = 0, 1
 
 if 0 <= n < 20: 
