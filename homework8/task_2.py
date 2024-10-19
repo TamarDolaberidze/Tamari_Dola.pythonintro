@@ -1,6 +1,6 @@
 input1 = input("enter a text1: ")
 input2 = input("enter a text2: ")
-alphabet = "abcdefghijklmnopqrstuvwxyz"
+alphabet = "abcdefghijklmnopqrstuvwxyz" 
 
 print(input1)
 print(input2)

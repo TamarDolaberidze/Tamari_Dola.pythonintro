@@ -2,7 +2,7 @@ s = input("enter a word: ")
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 new_s = s.strip()
-new_s_1 = new_s.replace(" ", "")
+new_s_1 = new_s.replace(" ", "") 
 new_s_2 = new_s_1.lower()
 
 for char in new_s_2:
