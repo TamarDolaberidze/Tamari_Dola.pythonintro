@@ -1,6 +1,6 @@
 from datetime import datetime
 
-input = (input("please enter a time: ")) 
+input = (input("please enter a time: "))  
 
 input_time = datetime.fromisoformat(input) 
 

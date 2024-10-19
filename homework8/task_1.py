@@ -1,4 +1,4 @@
-s = input("enter a word: ")
+s = input("enter a word: ") 
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 new_s = s.strip()
