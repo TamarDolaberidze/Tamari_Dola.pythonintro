@@ -2,7 +2,7 @@ from datetime import datetime
 
 input = (input("please enter a time: ")) 
 
-input_time = datetime.fromisoformat(input)
+input_time = datetime.fromisoformat(input) 
 
 new_format_date = input_time.strftime("%d:%m:%Y")
 new_format_time = input_time.strftime("%I:%M:%S").lstrip("0")

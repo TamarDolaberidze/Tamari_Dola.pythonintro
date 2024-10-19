@@ -3,7 +3,7 @@ input2 = input("enter a text2: ")
 alphabet = "abcdefghijklmnopqrstuvwxyz" 
 
 print(input1)
-print(input2)
+print(input2) 
 found_match = True
 
 if len(input1) == len(input2):
