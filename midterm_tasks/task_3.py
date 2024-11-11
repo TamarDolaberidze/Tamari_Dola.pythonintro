@@ -2,7 +2,7 @@ import random
 
 def play(r, p, s):
     list_choices = ["R", "P", "S"]
-    return random.choice(list_choices)
+    return random.choice(list_choices) 
 
 def determine_winner(player_input, computer_rand):
     if player_input == computer_rand:

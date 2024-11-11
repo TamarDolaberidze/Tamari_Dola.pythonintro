@@ -1,4 +1,4 @@
-n = int(input("Enter number: "))
+n = int(input("Enter number: ")) 
 
 if not 10 <= n <= 5432 or float(n) != int(n):
     print("Not correct number")
