@@ -1,0 +1,128 @@
+{
+    "parking_zones": [
+        {
+            "name": "Zone 1",
+            "address": "123 Main St",
+            "price": 10.0,
+            "history": [
+                {
+                    "license_plate": "ABC123",
+                    "start_time": "2025-01-01 12:00:00",
+                    "end_time": "2025-01-01 13:00:00",
+                    "Owner_id": 2,
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "XYZ789",
+                    "start_time": "2025-01-10 09:00:00",
+                    "end_time": "2025-01-10 11:00:00",
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "AGH897",
+                    "start_time": "2025-01-15 19:38:31",
+                    "end_time": "2025-01-15 22:49:53",
+                    "Owner_id": 4,
+                    "status": "expired"
+                }
+            ]
+        },
+        {
+            "name": "Zone 2",
+            "address": "Address 234 Sc St",
+            "price": 3.3,
+            "history": [
+                {
+                    "license_plate": "ABC123",
+                    "start_time": "2025-01-01 12:00:00",
+                    "end_time": "2025-01-16 22:50:51",
+                    "Owner_id": 4,
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "KU-393-JH",
+                    "start_time": "2025-01-14 22:42:36",
+                    "end_time": "2025-10-14 14:44:22",
+                    "Owner_id": 4,
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "WOW565",
+                    "start_time": "2025-01-15 19:19:08",
+                    "end_time": "2025-01-30 15:45:00",
+                    "Owner_id": 4,
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "JJ223UU",
+                    "start_time": "2025-01-16 23:06:04",
+                    "Owner_id": 4,
+                    "end_time": "2025-01-16 23:12:01",
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "JJ222UU",
+                    "start_time": "2025-01-16 23:13:30",
+                    "Owner_id": 4,
+                    "end_time": "2025-01-17 14:09:34",
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "UU888YH",
+                    "start_time": "2025-01-17 14:53:56",
+                    "Owner_id": 4,
+                    "end_time": "",
+                    "status": "active"
+                }
+            ]
+        },
+        {
+            "name": "Zone 3",
+            "address": "898 Freedom St",
+            "price": 10.0,
+            "history": [
+                {
+                    "license_plate": "ABC123",
+                    "start_time": "2025-01-01 12:00:00",
+                    "end_time": "2025-01-01 14:00:00",
+                    "Owner_id": 4,
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "XYZ789",
+                    "start_time": "2025-01-10 09:00:00",
+                    "end_time": "2025-01-10 11:00:00",
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "RTR546",
+                    "start_time": "2025-01-15 19:39:08",
+                    "end_time": "2026-11-01 14:10:56",
+                    "Owner_id": 4,
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "WER565",
+                    "start_time": "2025-01-15 22:48:30",
+                    "end_time": "",
+                    "Owner_id": 4,
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "RER799",
+                    "start_time": "2025-01-16 22:26:53",
+                    "Owner_id": 4,
+                    "end_time": "2025-01-16 23:12:52",
+                    "status": "expired"
+                },
+                {
+                    "license_plate": "II888KK",
+                    "start_time": "2025-01-17 14:54:58",
+                    "Owner_id": 4,
+                    "end_time": "",
+                    "status": "active"
+                }
+            ]
+        }
+    ]
+}

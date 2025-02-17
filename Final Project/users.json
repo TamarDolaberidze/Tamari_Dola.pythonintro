@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": 2,
+        "username": "SOSO",
+        "password": "34345",
+        "balance": "560"
+    },
+    {
+        "user_id": 3,
+        "username": "Tamuna The Programmer",
+        "password": "1234",
+        "balance": "30000"
+    },
+    {
+        "user_id": 4,
+        "username": "Tamuna Dolaberidze",
+        "password": "222",
+        "balance": "350.7155844450833"
+    },
+    {
+        "user_id": 5,
+        "username": "Tamusoso",
+        "password": "223",
+        "balance": "123"
+    }
+]
